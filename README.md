@@ -11,4 +11,6 @@ I'm a Computer Engineering master's student passionate about AI and Machine Lear
 ## 📫 Connect with Me
 - LinkedIn: [Sedef Kjamili](https://www.linkedin.com/in/sedefkjamili/)
 
+---
+
 🚀 Turning data into insight, one model at a time.
