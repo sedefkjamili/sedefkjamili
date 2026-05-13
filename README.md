@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Sedef Kjamili
 
-<!--
-**sedefkjamili/sedefkjamili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering master's student passionate about AI and Machine Learning, with a focus on applications in materials science.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Interests
+- Machine learning & deep learning
+- AI for materials science
+- Data-driven discovery
+- Scientific computing
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Sedef Kjamili](https://www.linkedin.com/in/sedefkjamili/)
+
+---
+🚀 Let's build something meaningful!
