@@ -1,10 +1,9 @@
 # Hi there 👋 I'm Sedef Kjamili
 
-I'm a Computer Engineering master's student passionate about AI and Machine Learning, with a focus on applications in materials science.
+I'm a Computer Engineering master's student passionate about AI and Machine Learning.
 
 ## ⚙️ Interests
 - Machine learning & deep learning
-- AI for materials science
 - Data-driven discovery
 - Scientific computing
 
